@@ -49,6 +49,10 @@
                 font-size: 84px;
             }
 
+            .motto {
+                font-size: 24px;
+            }
+
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -76,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     My Site
+                    <p class="motto">If I rest,I rust</p>
                 </div>
             </div>
         </div>
